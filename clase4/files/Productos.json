@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Producto1",
+        "description": "Productos de prueba",
+        "price": 2800,
+        "thumbnail": "sin imagen",
+        "code": "123",
+        "stock": 5, 
+        "id": 1 
+    },
+    {
+        "title": "Producto2",
+        "description": "Productos de prueba",
+        "price": 2800,
+        "thumbnail": "sin imagen",
+        "code": "1234",
+        "stock": 15, 
+        "id": 2
+    },
+    {
+        "title": "Producto3",
+        "description": "Productos de prueba",
+        "price": 2300,
+        "thumbnail": "sin imagen",
+        "code": "12345",
+        "stock": 4, 
+        "id": 3
+    }
+]
