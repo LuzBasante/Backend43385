@@ -1,0 +1,65 @@
+[
+    { 
+        "title": "vans",
+        "description":"Descripcion pendiente",
+        "code": "566aass",
+        "price": 20000, 
+        "status": true,
+        "stock": 10, 
+        "category": "Vans", 
+        "id": "1"
+        
+    },
+    { 
+        "title": "vans botita",
+        "description":"Descripcion pendiente",
+        "code": "556aass",
+        "price": 20000, 
+        "status": true,
+        "stock": 6, 
+        "category": "Vans", 
+        "id": "2"
+        
+    },    { 
+        "title": "nike jordan",
+        "description":"Descripcion pendiente",
+        "code": "568aass",
+        "price": 17000, 
+        "status": true,
+        "stock": 5, 
+        "category": "Nike", 
+        "id": "3"
+        
+    },    { 
+        "title": "converse rojas",
+        "description":"Descripcion pendiente",
+        "code": "569aass",
+        "price": 12000, 
+        "status": true,
+        "stock": 6, 
+        "category": "converse", 
+        "id": "4"
+        
+    },    { 
+        "title": "converse",
+        "description":"Descripcion pendiente",
+        "code": "580aass",
+        "price": 12500, 
+        "status": true,
+        "stock": 3, 
+        "category": "Vans", 
+        "id": "5"
+        
+    },    { 
+        "title": "nike",
+        "description":"Descripcion pendiente",
+        "code": "581aass",
+        "price": 22000, 
+        "status": true,
+        "stock": 1, 
+        "category": "Vans", 
+        "id": "6"
+        
+    }
+    
+]
