@@ -1,7 +1,7 @@
 import express from 'express'; 
 import appRouters from './routes/app.routers.js'
 import CartManager from './managers/cartManager.js';
-import ProductManager from '../managers/ProductManager.js';
+import ProductManager from '../managers/productManager.js';
 import productsRouter from './routes/products.routers.js'; 
 
 const app= express ()

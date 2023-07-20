@@ -1,0 +1,64 @@
+[
+  {
+    "title": "vans",
+    "description": "Descripcion pendiente",
+    "code": "566aass",
+    "price": 20000,
+    "stock": 10,
+    "category": "Vans"
+  },
+  {
+    "title": "vans botita",
+    "description": "Descripcion pendiente",
+    "code": "556aass",
+    "price": 20000,
+    "stock": 6,
+    "category": "Vans"
+  },
+  {
+    "title": "nike jordan",
+    "description": "Descripcion pendiente",
+    "code": "568aass",
+    "price": 17000,
+    "stock": 5,
+    "category": "Nike"
+  },
+  {
+    "title": "converse rojas",
+    "description": "Descripcion pendiente",
+    "code": "569aass",
+    "price": 12000,
+    "stock": 6,
+    "category": "converse"
+  },
+  {
+    "title": "converse",
+    "description": "Descripcion pendiente",
+    "code": "580aass",
+    "price": 12500,
+    "stock": 3,
+    "category": "Vans"
+  },
+  {
+    "title": "nike",
+    "description": "Descripcion pendiente",
+    "code": "581aass",
+    "price": 22000,
+    "stock": 1,
+    "category": "Vans"
+  },
+  {
+    "name": "hola",
+    "price": "6655",
+    "thumbnail": "...",
+    "description": "descripcion",
+    "title": "hola"
+  },
+  {
+    "name": "zapatillas",
+    "price": "20000",
+    "thumbnail": "https://www.indy.com.ar/cdn/shop/files/zapatillas-vans-sk8-hi-negro-blanco-indy-1.jpg?v=1689187862",
+    "description": "descripcion ",
+    "title": "zapatillas"
+  }
+]
