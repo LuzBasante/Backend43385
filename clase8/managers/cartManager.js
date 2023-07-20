@@ -1,7 +1,6 @@
-import fs from 'fs';
-import ProductManager from 'productManager'; 
+import fs from 'fs' ; 
 
-class CartManger {
+class CartManager {
     constructor(path){
         this.path = path; 
     }
@@ -15,6 +14,7 @@ class CartManger {
             }
         } catch (error) {
             console.log(error);
+            return [];
         }
     }
 
