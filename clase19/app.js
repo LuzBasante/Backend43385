@@ -2,10 +2,10 @@ import express from 'express';
 import handlebars from 'express-handlebars'
 import session from 'express-session'
 import __dirname from './src/utils.js'
-import routers from './routers/app.routers.js'
 import MongoStore from 'connect-mongo'
 import mongoose from 'mongoose';
 //import productModel from './dao/models/products.model.js';
+import router from './src/routes/app.routers.js';
 
 
 const app = express()
@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 8080
 
 
 try {
-    await mongoose.connect('mongodb+srv://luzbasante1:luzbasante1@backendlb.ye4s1zp.mongodb.net/')
+    await mongoose.connect('mongodb+srv://proyectoCoder:coderhouse2023@backendlb.ye4s1zp.mongodb.net/')
     
 } catch (error) {
     console.log(error)
@@ -42,7 +42,7 @@ app.set('view engine', 'handlebars')
 
 
 
-app.use('/', routerApp)
+app.use('/', router)
 
 app.listen(PORT, () => {console.log(`Server is active and running on port ${PORT}`)})
 
